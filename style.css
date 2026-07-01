@@ -92,7 +92,7 @@ body{
     
     width: 980px;
     height: 400px;
-    background-image: url(Assets/img-01.png);
+    background-image: url(assets/img-01.png);
     background-size: cover;
     margin: 60px auto ;
     padding: 60px 40px;
@@ -147,18 +147,18 @@ body{
     height: 32px;
 }
 .insta {
-    background-image: url(Assets/img-04.png);
+    background-image: url(assets/img-04.png);
     background-size: contain;
     background-position: center;
 }
 .linkdin{
-    background-image: url(Assets/img-11.png);
+    background-image: url(assets/img-11.png);
      background-size: contain;
     background-position: center;
 
 }
 .facebook{
-    background-image:url(Assets/img-03.png) ;
+    background-image:url(assets/img-03.png) ;
      background-size: contain;
     background-position: center;
 
@@ -166,7 +166,7 @@ body{
 
 .youtube{
 
-    background-image: url(Assets/img-05.png);
+    background-image: url(assets/img-05.png);
      background-size: contain;
     background-position: center;
     
